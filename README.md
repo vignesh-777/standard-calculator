@@ -1,3 +1,4 @@
+
 # Design of a Standard Calculator
 
 ## AIM:
@@ -164,6 +165,7 @@ for (item of buttons) {
 ```
 
 ## OUTPUT:
-![](/standard-calculator/saveetha.png)
+![calc](https://github.com/vignesh-777/standard-calculator/assets/139842402/d65b056a-a6e4-486a-bd0e-5ca7d66705af)
+
 ## Result:
 Hence,the program is successfully executed.
